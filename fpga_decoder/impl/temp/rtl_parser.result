@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "D:/Gowin/FPGA_study/fpga_decoder/src/top.v",
+  "InstLine" : 2,
+  "InstName" : "top",
+  "ModuleFile" : "D:/Gowin/FPGA_study/fpga_decoder/src/top.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/Gowin/FPGA_study/fpga_decoder/src/top.v",
+    "InstLine" : 10,
+    "InstName" : "decoder38_inst",
+    "ModuleFile" : "D:/Gowin/FPGA_study/fpga_decoder/src/decoder.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "decoder38"
+   }
+  ]
+ }
+]

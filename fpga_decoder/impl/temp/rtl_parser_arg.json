@@ -1,0 +1,21 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "D:/Gowin/FPGA_study/fpga_decoder/src/decoder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Gowin/FPGA_study/fpga_decoder/src/top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Gowin/FPGA_study/fpga_decoder/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

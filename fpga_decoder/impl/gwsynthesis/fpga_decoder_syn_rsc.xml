@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="30" Lut="55">
+ <SubModule name="decoder38_inst" Lut="6"/>
+</Module>
