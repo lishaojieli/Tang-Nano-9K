@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/Gowin/FPGA_study/fpga_led/src/led.v",
+  "InstLine" : 1,
+  "InstName" : "led",
+  "ModuleFile" : "D:/Gowin/FPGA_study/fpga_led/src/led.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "led"
+ }
+]
